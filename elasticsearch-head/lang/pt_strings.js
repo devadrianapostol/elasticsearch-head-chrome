@@ -60,6 +60,7 @@ i18n.setKeys({
 	"Header.ClusterNotConnected": "saúde do cluster: não conectado",
 	"Header.Connect": "Conectar",
 	"Nav.AnyRequest": "Qualquer requisição",
+    "Nav.Tasks" : "Tasks",
 	"Nav.Browser": "Navegador",
 	"Nav.ClusterHealth": "Saúde do Cluster",
 	"Nav.ClusterState": "Estado do Cluster",

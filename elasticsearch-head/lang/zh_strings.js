@@ -60,6 +60,7 @@ i18n.setKeys({
 	"Header.ClusterNotConnected": "集群健康值: 未连接",
 	"Header.Connect": "连接",
 	"Nav.AnyRequest": "复合查询",
+    "Nav.Tasks" : "Tasks",
 	"Nav.Browser": "数据浏览",
 	"Nav.ClusterHealth": "集群健康值",
 	"Nav.ClusterState": "群集状态",

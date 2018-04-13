@@ -60,6 +60,7 @@ i18n.setKeys({
 	"Header.ClusterNotConnected": "Küme Durumu: Bağlı Değil",
 	"Header.Connect": "Bağlan",
 	"Nav.AnyRequest": "Özel Sorgu",
+    "Nav.Tasks" : "Tasks",
 	"Nav.Browser": "Görüntüle",
 	"Nav.ClusterHealth": "Küme Durumu",
 	"Nav.ClusterState": "Küme Statüsü",
