@@ -4413,15 +4413,7 @@
         ); },
         _main_template: function() {
             return { tag: "DIV", id: this.id(), cls: "uiIndexOverview", children: [
-                    new ui.Toolbar({
-                        label: i18n.text("IndexOverview.PageTitle"),
-                        left: [
-                            new ui.Button({
-                                label: i18n.text("ClusterOverview.NewIndex"),
-                                onclick: this._newIndex_handler
-                            }),
-                        ]
-                    }),
+
                     { tag: "DIV", cls: "uiIndexOverview-table", children: this._indexViewEl }
                 ] };
         }
